@@ -6,5 +6,4 @@ Using this list, I made a code which deleted Adapters from these sequences.
 
 I used PANDAS and biopython to write the code.
 
-P.S Special thanks to JyotsanaNegi for debugging the code.
 
